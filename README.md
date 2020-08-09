@@ -35,3 +35,6 @@ Open CMD and type
 1. psql -U postgres postgres
 2. create role salman login; // have all the permission without the passowrd
 3. \du TO Check existing roles
+
+For more info check this 
+https://www.enterprisedb.com/postgres-tutorials/how-create-postgresql-database-and-users-using-psql-and-pgadmin
